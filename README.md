@@ -1,3 +1,2 @@
-# Alurapic
-
-Projeto em andamento
+# projectAngular01
+alurapic
